@@ -5,7 +5,7 @@ global.prems = ['6285624823115']
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Irfaan Official⛧⁩⁩'
-global.numberowner = ''
+global.numberowner = '6281646829895'
 global.instagram = 'https://www.instagram.com/gmpyyy'
 global.github = 'https://github.com/Alfarabotz567'
 global.dana = '089531704997'
