@@ -1,7 +1,7 @@
 //=============『 Utama 』================== //
 global.owner = ['6281646829895'] 
-global.mods = [] 
-global.prems = [] 
+global.mods = ['6289531704997'] 
+global.prems = ['6285624823115'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Irfaan Official⛧⁩⁩'
